@@ -1,0 +1,2 @@
+C:\Users\incze\OneDrive\_Projects\C#\orthancReplicator\bin\Release\netcoreapp3.1\linux-x64\publish\orthancReplicator.pdb
+C:\Users\incze\OneDrive\_Projects\C#\orthancReplicator\bin\Release\netcoreapp3.1\linux-x64\publish\orthancReplicator
